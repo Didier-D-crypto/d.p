@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  //function to run moment.js and show Month Day Year Time
+ 
   function dayTime() {
     $("#currentDay").html(moment().format("MMMM Do YYYY HH:mm:ss"));
     setInterval(dayTime, 1000);
@@ -8,6 +8,10 @@ $(document).ready(function(){
   
   //this local function presents live run of the time of day
   dayTime(); 
+
+
+
+
 
 
   //function to change textarea color based on time of day
