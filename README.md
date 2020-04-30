@@ -1,5 +1,5 @@
 # PLANNER APPLICATION
- ![Screenshot](assets/images/dayplanner1.png)
+ ![Screenshot](images/dayplanner1.png)
 
 
 
@@ -17,7 +17,7 @@ milestone. This planner aims to aid users with real time Date in planning
 accordingly, tracking your progress as the day evolves.
 
 
- ![Screenshot](assets/images/dayplanner1.png)
+ ![Screenshot](images/dayplanner1.png)
 
 
 
