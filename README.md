@@ -8,7 +8,8 @@
  https://github.com/Didier-D-crypto/d.p.git
 
 
-
+## Github Io
+https://didier-d-crypto.github.io/d.p/
 
 ## Functionality
 Successful planning is determining your to-dos for the day, then 
